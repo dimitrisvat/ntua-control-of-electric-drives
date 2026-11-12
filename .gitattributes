@@ -1,5 +1,0 @@
-*.m text eol=lf
-*.md text eol=lf
-*.slx binary
-*.pdf binary
-*.png binary
